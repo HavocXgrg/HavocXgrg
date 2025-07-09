@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on Front end tech.<br>👯 I’m looking to collaborate on Full stack.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Frontend development with a focus on JavaScript.<br>
+👯 I’m looking to collaborate on Full Stack web projects using modern tools.<br>
+🤝 I’m looking for help with building scalable apps using React and Next.js.<br>
+🌱 I’m currently learning advanced React patterns and exploring Next.js deeply.<br>
+💬 Ask me about JavaScript, React, or anything web development related.<br>
+⚡ Fun fact: I love turning ideas into real websites — learning by doing is my thing!
+
 
 
 ## 🌐 Socials:
